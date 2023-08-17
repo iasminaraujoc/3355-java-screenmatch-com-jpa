@@ -34,6 +34,13 @@
 			<version>2.15.2</version>
 		</dependency>
 
+		<dependency>
+			<groupId>com.theokanning.openai-gpt3-java</groupId>
+			<artifactId>service</artifactId>
+			<version>0.14.0</version>
+		</dependency>
+
+
 	</dependencies>
 
 	<build>
